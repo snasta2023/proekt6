@@ -1,0 +1,728 @@
+/* плашка */
+#home {
+    position: absolute;
+    width: 1920px;
+    height: 49px;
+    left: 0px;
+    top: 1px;
+    /* background: rgba(18, 17, 17, 0.82); */
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    background: linear-gradient(to left, #121111 2%, transparent 190%);
+}
+.club1 {
+    position: absolute;
+    position: absolute;
+    width: 117px;
+    height: 58px;
+    left: 370px;
+    top: 7px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+}
+.club2{
+position: absolute;
+width: 212px;
+height: 29px;
+left: 460px;
+top: 20px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.menu {
+    display: flex;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #B9B5BD;
+    padding-left: 1017px;
+    padding-top: 28px;
+}
+
+#menu-item1, #menu-item2,#menu-item3, #menu-item4,#menu-item5{
+    padding: 0 10px;
+    text-indent: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 0 25px;
+    color: #B9B5BD;
+   
+    margin-left: -15px;
+   
+}
+/* конец плашки*/
+
+/*танцующий мужик*/
+.haus{
+    
+    background: url("background-2.png");
+    background-position: center top;
+    background-size: cover;
+    position: inherit;
+    width: 1920px;
+    height: 714px;
+    left: 0px;
+    top: -31px;
+
+}
+.body-container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;}
+
+    .restangle3{
+
+border-radius: 0px;
+
+position: absolute;
+width: 680px;
+height: 671px;
+left: 370px;
+top: 42px;
+
+background: linear-gradient(270deg, rgba(0, 0, 0, 0.81) 2%, rgba(0, 0, 0, 0.589424) 89.15%, rgba(0, 0, 0, 0) 114.5%);
+
+    }
+
+    #header{
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: -6.5px;
+
+background: rgba(18, 17, 17, 0.82);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .restangle3-title{
+position: absolute;
+width: 382px;
+height: 189px;
+left: 156px;
+margin-top: 103px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 400;
+font-size: 82px;
+line-height: 81px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .restangle3-text {
+        position: absolute;
+        width: 380px;
+        height: 58px;
+        left: 154px;
+        margin-top: 278px;
+        
+        font-family: 'Yanone Kaffeesatz';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+        
+    }
+    .ellipse{
+flex-direction: column;
+display: flex;
+position: absolute;
+width: 15px;
+height: 15px;
+margin-top: 291px;
+margin-left: 20px;
+
+
+
+
+
+    }
+
+    .ellipse2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        bottom: 26px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+        border-radius: 20px;
+    }
+
+    .ellipse3 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        bottom: 52px;
+        border-radius: 20px;
+        background: #E89B2B;
+        border: 2px solid #FFFFFF;
+    }
+    .ellipse4 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        bottom: 78px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+
+    .ellipse5 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        bottom: 104px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+
+    .ellipse6 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        bottom: 130px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+
+.restangle4-text1{
+    position: absolute;
+    width: 64.79px;
+    height: 22.96px;
+    left: 492.97px;
+    top: 388.04px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+    
+    color: #FFFFFF;
+}
+
+.restangle4-text2{
+    position: absolute;
+    width: 57.17px;
+    height: 22.96px;
+    left: 597.35px;
+    top: 388.04px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    color: #E89B2B;
+    
+}
+
+.restangle4-1{
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 103.67px;
+    height: 31px;
+    left: 522px;
+    top: 379px;
+    
+    border: 1px solid #BEBEC8;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.restangle4-2{
+box-sizing: border-box;
+
+position: absolute;
+width: 99.09px;
+height: 31px;
+left: 624.91px;
+top: 379px;
+
+border: 1px solid #BEBEC8;
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+}
+
+.married-title{
+position: absolute;
+width: 355px;
+height: 30px;
+left: 517px;
+top: 481px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.married-text1{
+    position: absolute;
+    width: 343px;
+    height: 39px;
+    left: 517px;
+    top: 550px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+    
+    color: #FFFFFF;
+    
+}
+
+.married-text2{
+position: absolute;
+width: 49px;
+height: 13px;
+left: 736px;
+top: 577px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 12px;
+
+color: #E89B2B;
+
+}
+
+/**end танцующий мужик**/
+
+.restangle48{
+    position: absolute;
+    width: 1920px;
+    height: 6px;
+    left: 0px;
+    top: 712px;
+    
+    background: #E89B2B;
+}
+
+.direction{
+background-color: #404043;
+position: absolute;
+width: 1920px;
+height: 204px
+
+}
+
+.direction-title, .office-title {
+    top: 828px;
+    position: absolute;
+    width: 345px;
+    height: 93px;
+    top: 91px;
+    left: 528px;
+    /* top: 835px; */
+    justify-content: center;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 83px;
+    line-height: 82px;
+    color: rgba(255, 255, 255, 0.14);
+}
+
+.direction-text, .office-text {
+    left: 488px;
+    position: absolute;
+    width: 145px;
+    left: 561px;
+    top: 154px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+
+.dance{
+background-color: #404043;
+position: inherit;
+width: 1920px;
+height: 1391px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
+
+.restangle6{
+background: url(Rectangle6.png);
+position: absolute;
+width: 380px;
+height: 459px;
+left: 370px;
+top: 1074px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.restangle6-title{
+position: absolute;
+width: 246px;
+height: 49px;
+left: 6px;
+top: 363px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+.restangle6-block, .restangle8-block {
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 6px;
+    top: 330px;
+    background: #202021;
+    padding-top: 5px;
+    padding: 2px 0px 2px 4px;
+}
+.restangle6-1{
+    position: absolute;
+    width: 105px;
+    height: 28px;
+    left: 50px;
+    top: 415px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.restangle6-button1 {
+    position: absolute;
+    width: 131px;
+    height: 36px;
+    left: 42px;
+    top: 395px;
+    background: #E89B2B;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    padding: 4px 10px 2px 2px;
+}
+
+.restangle6-2{
+position: absolute;
+width: 93px;
+height: 28px;
+left: 207px;
+top: 415px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.restangle6-button2{
+box-sizing: border-box;
+
+position: absolute;
+width: 131px;
+height: 36px;
+left: 207px;
+top: 395px;
+
+border: 1px solid #FFFFFF;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+background-color: transparent;
+padding: 4px 10px 2px 2px;
+}
+
+.restangle7{
+    background: url(Rectangle7.png);
+    position: absolute;
+    width: 380px;
+    height: 459px;
+    
+    top: 1074px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+    .restangle8{
+        background: url(Rectangle8.png);
+        position: absolute;
+        width: 380px;
+        height: 459px;
+        left: 1170px;
+        top: 1074px;
+        
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        }
+        .mix{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+
+        }
+        .restangle8-block{
+            width: 184px;
+        }
+
+        .restangle9{
+            background: url(Rectangle9.png);
+            position: absolute;
+            width: 380px;
+            height: 459px;
+            left: 370px;
+            top: 1583px;
+            
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+            }
+
+            .restangle10{
+                background: url(Rectangle10.png);
+                position: absolute;
+                width: 380px;
+                height: 459px;
+                left: 770px;
+                top: 1583px;
+                
+                filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+                }
+
+                .restangle11{
+                    background: url(Rectangle11.png);
+                    position: absolute;
+                    width: 380px;
+                    height: 459px;
+                    left: 1170px;
+                    top: 1583px;
+                    
+                    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+                    }
+/* end наши направления*/
+
+/*office */
+.office1{
+    background-color: #404043;
+    position: inherit;
+    width: 1920px;
+    height: 196px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.office-title{
+    position: absolute;
+    width: 422px;
+    height: 76px;
+    left: 467px;
+    top: 2150px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 83px;
+    line-height: 82px;
+    
+    color: rgba(255, 255, 255, 0.14);
+    
+}
+
+.office-text{
+position: absolute;
+width: 164px;
+height: 26px;
+left: 491px;
+top: 2200px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 34px;
+
+color: #FFFFFF;
+}
+
+.office2{
+background: url(background.png);
+position: absolute;
+width: 1924px;
+height: 549px;
+left: 0px;
+top: 2297px;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+
+}
+
+.restangle40, .restangle41, .restangle42{
+position: absolute;
+width: 381px;
+height: 329px;
+left: 369px;
+top: 129px;
+
+background: rgba(16, 16, 16, 0.86);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.restangle41{
+left: 770px;
+top: 129px;
+}
+.restangle42{
+left: 1169px;
+top: 129px;
+}
+
+.restangle40-title1 {
+    position: absolute;
+    width: 317px;
+    height: 53px;
+    left: 40px;
+    top: 26px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.restangle40-title2{
+position: absolute;
+width: 300px;
+height: 28px;
+left: 38px;
+top: 74px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 32px;
+
+color: #C88930;
+
+}
+.icon{
+    display: flex;
+    margin: 5px 0;
+    color: #78716C;
+    font-size: 14px;
+}
+
+.phone {
+    position: absolute;
+    left: 399px;
+    
+    top: 340px;
+   
+    color: #E89B2B;
+}
+
+.location{
+    position: absolute;
+    left: 399px;
+    
+    top: 397px;
+   
+    color: #E89B2B;
+}
+.phone-text{
+    position: absolute;
+    width: 302px;
+    height: 35px;
+    left: 440px;
+    top: 344px;
+    
+    font-family: 'Yandex-UI-Icons-Private';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+}
+
+.location-text{
+position: absolute;
+width: 295px;
+height: 35px;
+left: 430px;
+top: 410px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
