@@ -892,9 +892,12 @@ background: #E89B2B;
     top: 6000px;
     height: 336px;
     margin-top: 4580px;
-    width: 1920px;
-    background-position: center;
-    image-orientation: none;
+    /* width: 1920px; */
+    background-position: top;
+    /* image-orientation: none; */
+    /* object-fit: cover; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
 }
 .footer1 {
     display: flex;
