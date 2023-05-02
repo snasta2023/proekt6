@@ -885,3 +885,29 @@ top: 4572px;
 
 background: #E89B2B;
 }
+/*наши соцсети*/
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    background: #F0F9FF;
+    padding-top: 30px;
+}
+
+.messenger {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 67px;
+}
+
+.manager, .messenger{
+    font-family: 'Yanone Kaffeesatz';
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 300;
+}
+.manager {
+font-weight: 700;
+display: flex;
+justify-content: flex-end;
+padding-left: 370px;
+}
