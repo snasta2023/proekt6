@@ -770,7 +770,12 @@ color: #FFFFFF;
     
     color: rgba(255, 255, 255, 0.14);
 }
-
+.abonements2{
+    width: 1920px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 .abonements-text{
 position: absolute;
 width: 145px;
