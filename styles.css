@@ -1038,15 +1038,16 @@ line-height: 43px;
         top: 234px
         }
        .restangle6-button1{
-        height: 64px;
+        height: 58px;
         left: 42px;
+        width: 292px;
        }
        .restangle6-1 {
         font-size: 48px;
 
         }
         .restangle6-button2 {
-            box-sizing: border-box;
+            position: unset;
            
     }
 }
