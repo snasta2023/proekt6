@@ -952,7 +952,11 @@ color: #FFFFFF;
     padding-right: 58px;
     justify-content: space-evenly;
 }
-
+span.bold {
+font-weight: 600;
+font-size: 43px;
+line-height: 43px;
+}
 .footer2 {
     display: flex;
     flex-direction: column;
