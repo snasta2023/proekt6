@@ -804,6 +804,18 @@ img:nth-child(1), .img:nth-child(2), .img:nth-child(3) {
     width: 100%;
     border-radius: 10px;
 }
+
+.brown {
+    background-color: #0284C7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 248px;
+    /* justify-content: center; */
+    padding-right: 251px;
+}
 .restangle44{
     position: absolute;
     border-bottom: 3px solid #E89B2B;
