@@ -1011,6 +1011,7 @@ line-height: 43px;
 .footer-iconc{
     display: flex;
     padding-left: 943px;
+    top: 4360px;
 }
 .footer2 {
     font-size: 70px;}
@@ -1021,8 +1022,9 @@ line-height: 43px;
    .manager{
     font-size: 70px;
     line-height: 70px;
-    width: 500px;
+    width: 516px;
     left: 266px;
+    top: 4372px;
    }
    .manager-icon1, .manager-icon2, .manager-icon3 {
     padding-left: 25px;
