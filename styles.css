@@ -900,7 +900,13 @@ background: #E89B2B;
 }
 
 .manager-icon{
-    
+position: absolute;
+left: 75.31%;
+right: 23.44%;
+top: 91.18%;
+bottom: 8.29%;
+
+background: #B3AEAF;
     font-size: 23px;
     padding-left: 5px;
 }
