@@ -942,20 +942,24 @@ color: #FFFFFF;
 
 .Adresa {
     display: flex;
-    flex-direction: row;
-    
-    padding-top: 136px;
+    padding-top: 106px;
     font-family: 'Yanone Kaffeesatz';
     color: #FFFFFF;
     font-size: 24px;
     font-weight: 300;
-    padding-right: 58px;
-    justify-content: space-evenly;
+    padding-right: 466px;
+    justify-content: center;
+    align-content: flex-end;
 }
 span.bold {
 font-weight: 600;
 font-size: 43px;
 line-height: 43px;
+}
+.b-text{
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 26px;
 }
 .footer2 {
     display: flex;
