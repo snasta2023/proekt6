@@ -939,3 +939,33 @@ line-height: 32px;
 color: #FFFFFF;
 
 }
+
+.Adresa {
+    display: flex;
+    flex-direction: row;
+    background: #F0F9FF;
+    padding-top: 30px;
+    font-family: 'Open Sans';
+    color: #0369A1;
+    font-size: 18px;
+    font-weight: 300;
+    padding-right: 58px;
+    justify-content: space-evenly;
+}
+
+.footer2 {
+    display: flex;
+    flex-direction: column;
+
+    background: #F0F9FF;
+    padding-top:  30px;
+    font-family: 'Open Sans';
+    color: #0369A1;
+    font-size: 18px;
+    font-weight: 300;
+ }
+ .location2{
+    display: flex;
+    align-items: baseline;
+    padding-left: 59px;
+ }
