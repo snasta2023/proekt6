@@ -886,8 +886,13 @@ top: 4572px;
 background: #E89B2B;
 }
 /*наши соцсети*/
-.footer{
+.footer {
     background: url(background.png);
+    top: auto;
+    top: 6000px;
+    height: 550px;
+    margin-top: 4580px;
+    width: 1920px;
 }
 .footer1 {
     display: flex;
