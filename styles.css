@@ -822,6 +822,47 @@ color: #FFFFFF;
     @media(min-width:321px) and (max-width:480px) {
     .container_slider_css{width:80%;height:190px}
     }
+    .restangle44{
+        position: absolute;
+        border-bottom: 3px solid #E89B2B;
+    }
+    .restangle44-title{
+    position: absolute;
+    width: 597px;
+    height: 91px;
+    left: 472px;
+    top: 3236px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    
+    color: #FFFFFF;
+    
+    }
+    .restangle44-button{
+    position: absolute;
+    width: 142px;
+    height: 36px;
+    left: 469px;
+    top: 3324px;
+    
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    
+    background: #E89B2B;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border: none;
+    padding: 4px 10px 2px 2px;
+    
+    }
 .brown {
     background-color: #404043;
     padding-top: 5px;
