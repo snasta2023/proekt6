@@ -943,11 +943,11 @@ color: #FFFFFF;
 .Adresa {
     display: flex;
     flex-direction: row;
-    background: #F0F9FF;
+    
     padding-top: 30px;
-    font-family: 'Open Sans';
-    color: #0369A1;
-    font-size: 18px;
+    font-family: 'Yanone Kaffeesatz';
+    color: #FFFFFF;
+    font-size: 24px;
     font-weight: 300;
     padding-right: 58px;
     justify-content: space-evenly;
@@ -957,11 +957,11 @@ color: #FFFFFF;
     display: flex;
     flex-direction: column;
 
-    background: #F0F9FF;
+    
     padding-top:  30px;
-    font-family: 'Open Sans';
-    color: #0369A1;
-    font-size: 18px;
+    font-family: 'Yanone Kaffeesatz';
+    color:  #FFFFFF;
+    font-size: 24px;
     font-weight: 300;
  }
  .location2{
