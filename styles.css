@@ -998,6 +998,7 @@ line-height: 43px;
 .Adresa{
     flex-direction: column;
     align-items: center;
+    padding-left: 570px;
 }
 .footer{
     height: 1249px;
@@ -1008,4 +1009,7 @@ line-height: 43px;
 .footer2 {
     font-size: 70px;}
 
+   .span.bold{
+    font-size: 70px;
+   }
 }
