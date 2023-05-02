@@ -1124,10 +1124,16 @@ line-height: 43px;
     .phone-text{
         padding-top: 469px;
         padding-left:  82px;
+    /*left: 440px; */
+    /* top: 243px;
     }
     .restangle40-title2{
         padding-left: 32px;
-        padding-top:  81px;
+        padding-top:  99px;
+    /*width: 300px; */
+    /* height: 28px; */
+    /* left: 38px; */
+    /* top: 74px*/
     }
     .restangle40-title1{
         padding-top: 22px;
@@ -1136,6 +1142,7 @@ line-height: 43px;
     .location-text{
         padding-left: 80px;
         padding-top: 566px;
+        /*top: 286px;*/
     }
 }
 
