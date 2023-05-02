@@ -907,24 +907,18 @@ background: #E89B2B;
     padding-left: 67px;
 }
 
-.manager-icon{
-position: absolute;
-/*left: 75.31%;
-right: 23.44%;
-bottom: 8.29%;
-*/
-top:  4773px;
-
-
-background: #B3AEAF;
+.manager-icon {
+    position: absolute;
+    top: 4779px;
+    
     font-size: 23px;
-    padding-left: 5px;
+    padding-left: 1154px;
 }
 .manager {
 font-weight: 700;
 display: flex;
 justify-content: flex-end;
-padding-left: 370px;
+padding-left: 193px;
 
 position: absolute;
 width: 168px;
