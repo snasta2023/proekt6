@@ -999,12 +999,14 @@ line-height: 43px;
     flex-direction: column;
     align-items: center;
     padding-left: 570px;
+    padding-top: 189px;
 }
 .footer{
     height: 1249px;
 }
 .footer-iconc{
     display: flex;
+    padding-left: 943px;
 }
 .footer2 {
     font-size: 70px;}
@@ -1012,4 +1014,13 @@ line-height: 43px;
    .bold{
     font-size: 70px;
    }
+   .manager{
+    font-size: 70px;
+    line-height: 70px;
+    width: 500px;
+    left: 266px;
+   }
+   .manager-icon1, .manager-icon2, .manager-icon3 {
+    padding-left: 25px;
+    width: 50px;}
 }
