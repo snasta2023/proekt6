@@ -786,6 +786,24 @@ line-height: 34px;
 
 color: #FFFFFF;
 }
+.container_slider_css {
+    margin: 20px auto;
+    width: 358px;
+    height: 210px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+}
+img:nth-child(1), .img:nth-child(2), .img:nth-child(3) {
+    animation-delay: 12s;
+}
+.photo_slider_css {
+    position: absolute;
+    animation: round 7s infinite;
+    opacity: 0;
+    width: 100%;
+    border-radius: 10px;
+}
 .restangle44{
     position: absolute;
     border-bottom: 3px solid #E89B2B;
