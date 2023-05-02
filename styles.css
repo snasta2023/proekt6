@@ -907,12 +907,16 @@ background: #E89B2B;
     padding-left: 67px;
 }
 
-.manager-icon1, ..manager-icon2, ..manager-icon3 {
+.footer-icon3 {
     position: absolute;
     top: 4779px;
     
     font-size: 23px;
     padding-left: 1221px;
+}
+
+.manager-icon1, .manager-icon2, .manager-icon3{
+    padding-left: 3px;
 }
 .manager {
 font-weight: 700;
