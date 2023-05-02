@@ -984,7 +984,7 @@ line-height: 43px;
  }
 
  /* адаптивная верстка для экрана под pixel 5 */
- @media (min-width: 350px) and (max-width: 900px)
+ @media (min-width: 300px) and (max-width: 900px)
 {   .menu{
     flex-direction: column;
 }
