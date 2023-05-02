@@ -1029,4 +1029,25 @@ line-height: 43px;
    .manager-icon1, .manager-icon2, .manager-icon3 {
     padding-left: 25px;
     width: 50px;}
+    .restangle6-title {
+        font-size: 70px;
+        line-height: 70px;}
+    .restangle8-block {
+        width: 300px;
+        height: 133px;
+        top: 234px
+        }
+       .restangle6-button1{
+        height: 64px;
+        left: 42px;
+       }
+       .restangle6-1 {
+        font-size: 48px;
+
+        }
+        .restangle6-button2 {
+            box-sizing: border-box;
+           
+    }
 }
+
