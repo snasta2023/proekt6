@@ -995,5 +995,17 @@ line-height: 43px;
 .brown{
     padding-bottom: 898px;
 }
+.Adresa{
+    flex-direction: column;
+    align-items: center;
+}
+.footer{
+    height: 1249px;
+}
+.footer-iconc{
+    display: flex;
+}
+.footer2 {
+    font-size: 70px;}
 
 }
