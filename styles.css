@@ -899,15 +899,29 @@ background: #E89B2B;
     padding-left: 67px;
 }
 
-.manager, .messenger{
-    font-family: 'Yanone Kaffeesatz';
-    color: #FFFFFF;
-    font-size: 18px;
-    font-weight: 300;
+.manager-icon{
+    
+    font-size: 23px;
+    padding-left: 5px;
 }
 .manager {
 font-weight: 700;
 display: flex;
 justify-content: flex-end;
 padding-left: 370px;
+
+position: absolute;
+width: 168px;
+height: 29px;
+left: 1276px;
+top: 4019px;
+
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+
 }
