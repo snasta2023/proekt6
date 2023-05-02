@@ -989,7 +989,8 @@ line-height: 43px;
     flex-direction: column;
 }
 .container_slider_css {
-    width: 415px;
+    width: 50%;
+    height: 896px;
 }
 
 }
