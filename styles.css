@@ -909,10 +909,12 @@ background: #E89B2B;
 
 .manager-icon{
 position: absolute;
-left: 75.31%;
+/*left: 75.31%;
 right: 23.44%;
-top:  4773px;
 bottom: 8.29%;
+*/
+top:  4773px;*
+
 
 background: #B3AEAF;
     font-size: 23px;
