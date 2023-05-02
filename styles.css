@@ -982,3 +982,11 @@ line-height: 43px;
     align-items: baseline;
     padding-left: 59px;
  }
+
+ /* адаптивная верстка для экрана под pixel 5 */
+ @media (min-width: 992px) and (max-width: 1199px)
+{   .menu{
+    flex-direction: column;
+}
+
+}
