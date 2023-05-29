@@ -70,15 +70,16 @@
  /* адаптивная верстка под мал.экран*/
  @media (min-width: 240px) and (max-width: 830px)
 {   .menu{
-    flex-direction: column;
     padding-left: 0px;
     margin-top: 0px;
+    font-size: 12px;
 }
 .club1 {
     padding-left: 10px}
 .club2{
     padding-left:  116px;}
-
+    .menu a {
+        padding: 0 10px;}
 }
 
 @media (max-width: 831px)
