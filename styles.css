@@ -68,7 +68,7 @@
 
 
  /* адаптивная верстка для экрана под pixel 5 */
- @media (min-width: 300px) and (max-width: 830px)
+ @media (min-width: 240px) and (max-width: 830px)
 {   .menu{
     flex-direction: column;
 }
