@@ -1,10 +1,10 @@
 /* плашка */
 #home {
     position: absolute;
-    width: 1920px;
+    /*width: 1920px;
     height: 49px;
-    left: 0px;
-    top: 1px;
+    left: 0px;*/
+    padding-top: 1px;
     /* background: rgba(18, 17, 17, 0.82); */
     box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
     background: linear-gradient(to left, #121111 2%, transparent 190%);
@@ -21,33 +21,31 @@
     line-height: 43px;
     color: #FFFFFF;
 }
-.club2{
-position: absolute;
-width: 212px;
-height: 29px;
-left: 460px;
-top: 20px;
-
-font-family: 'Yanone Kaffeesatz';
-font-style: normal;
-font-weight: 300;
-font-size: 28px;
-line-height: 28px;
-
-color: #FFFFFF;
+.club2 {
+    /* position: absolute; */
+    /* width: 212px; */
+    /* height: 29px; */
+    padding-left: 460px;
+    margin-top: -29px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 28px;
+    color: #FFFFFF;
 }
 
 .menu {
     display: flex;
-    
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #B9B5BD;
-    padding-left: 1017px;
-    padding-top: 28px;
+    padding-left: 647px;
+   /* position: absolute;*/
+    margin-top: -20px;
 }
 .body{
     background-color: #404043;
@@ -67,3 +65,13 @@ color: #FFFFFF;
 }
 /* конец плашки*/
 
+
+
+ /* адаптивная верстка для экрана под pixel 5 */
+ @media (min-width: 300px) and (max-width: 830px)
+{   .menu{
+    flex-direction: column;
+}
+
+
+}
