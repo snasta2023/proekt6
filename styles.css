@@ -1,6 +1,6 @@
 /* плашка */
 #home {
-    position: absolute;
+   /* position: absolute;*/
     /*width: 1920px;
     height: 49px;
     left: 0px;*/
@@ -84,5 +84,5 @@
 
 @media (min-width: 501px) and(max-width: 1024px)
 {
-    
+
 }
