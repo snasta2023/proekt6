@@ -10,21 +10,16 @@
     background: linear-gradient(to left, #121111 2%, transparent 190%);
 }
 .club1 {
-    position: absolute;
-    position: absolute;
-    width: 117px;
-    height: 58px;
-    left: 370px;
-    top: 7px;
     
+    padding-top: 8px;
+    padding-left: 370px;
+    top: 7px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 600;
     font-size: 43px;
     line-height: 43px;
-    
     color: #FFFFFF;
-    
 }
 .club2{
 position: absolute;
