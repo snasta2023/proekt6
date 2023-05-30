@@ -85,6 +85,9 @@
     padding-left:  116px;}
     .menu a {
         padding: 0 10px;}
+        #home{
+            height: 74px;
+        }
 }
 
 @media (min-width: 501px) and(max-width: 1024px)
