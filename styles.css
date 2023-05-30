@@ -72,7 +72,7 @@
 
 
  /* адаптивная верстка под мал.экран*/
- @media (min-width: 300px) and(max-width: 420px)
+ @media (min-width: 300px) and (max-width: 420px)
 {.menu{
     padding-left: 15px;
     margin-top: -6px;
