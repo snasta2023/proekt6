@@ -72,27 +72,7 @@
 
 
  /* адаптивная верстка под мал.экран*/
- @media (min-width: 421px) and (max-width: 940px)
-{   .menu{
-    padding-left: 15px;
-    margin-top: 0px;
-    font-size: 12px;
-    justify-content: flex-start;
-
-}
-
-.club1 {
-    padding-left: 10px}
-.club2{
-    padding-left:  116px;}
-    .menu a {
-        padding: 0 10px;}
-        #home{
-            height: 74px;
-        }
-}
-
-@media (min-width: 300px) and(max-width: 420px)
+ @media (min-width: 300px) and(max-width: 420px)
 {.menu{
     padding-left: 15px;
     margin-top: 0px;
@@ -117,3 +97,27 @@
         }
 
 }
+ 
+ 
+ 
+ 
+ @media (min-width: 421px) and (max-width: 940px)
+{   .menu{
+    padding-left: 15px;
+    margin-top: 0px;
+    font-size: 12px;
+    justify-content: flex-start;
+
+}
+
+.club1 {
+    padding-left: 10px}
+.club2{
+    padding-left:  116px;}
+    .menu a {
+        padding: 0 10px;}
+        #home{
+            height: 74px;
+        }
+}
+
