@@ -75,7 +75,7 @@
  @media (min-width: 300px) and(max-width: 420px)
 {.menu{
     padding-left: 15px;
-    margin-top: 0px;
+    margin-top: -6px;
     font-size: 12px;
     justify-content: flex-start;
 
