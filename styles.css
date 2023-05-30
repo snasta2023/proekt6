@@ -1,6 +1,6 @@
 /* плашка */
 #home {
-   /* position: absolute;*/
+   
     height: 49px;
     left: 0px;
     padding-top: 1px;
@@ -23,7 +23,7 @@
 }
 
 .club2 {
-    /* position: absolute; */
+    
     /* width: 212px; */
     /* height: 29px; */
     padding-left: 263px;
@@ -47,7 +47,7 @@
     line-height: 20px;
     color: #B9B5BD;
     /* padding-left: 647px; */
-    /* position: absolute; */
+   
     margin-top: -20px;
     justify-content: flex-end;
 }
