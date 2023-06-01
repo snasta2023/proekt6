@@ -71,7 +71,7 @@
 
 
 
- /* адаптивная верстка под мал.экран*/
+ /* адаптивная верстка */
  @media (min-width: 300px) and (max-width: 420px)
 {.menu{
     padding-left: 15px;
@@ -121,3 +121,208 @@
         }
 }
 
+/* конец плашки адаптивной верстки */
+
+/*танцующий мужик*/
+/*танцующий мужик*/
+.haus{
+    background: url("background-2.png");
+    background-position: center top;
+    background-size: cover;
+    position: inherit;
+    width: 100%;
+    
+    left: 0px;
+    top: -31px;
+}
+
+    .restangle3{
+border-radius: 0px;
+
+width: 680px;
+height: 671px;
+left: 370px;
+top: 42px;
+background: linear-gradient(270deg, rgba(0, 0, 0, 0.81) 2%, rgba(0, 0, 0, 0.589424) 89.15%, rgba(0, 0, 0, 0) 114.5%);
+    }
+    
+    .restangle3-title{
+
+width: 382px;
+height: 189px;
+left: 156px;
+margin-top: 103px;
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 400;
+font-size: 82px;
+line-height: 81px;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .restangle3-text {
+        
+        width: 380px;
+        height: 58px;
+        left: 154px;
+        margin-top: 278px;
+        font-family: 'Yanone Kaffeesatz';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+    .ellipse{
+flex-direction: column;
+display: flex;
+
+width: 15px;
+height: 15px;
+margin-top: 291px;
+margin-left: 20px;
+    }
+    .ellipse2 {
+        box-sizing: border-box;
+        
+        width: 15px;
+        height: 15px;
+        bottom: 26px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+        border-radius: 20px;
+    }
+    .ellipse3 {
+        box-sizing: border-box;
+        
+        width: 15px;
+        height: 15px;
+        bottom: 52px;
+        border-radius: 20px;
+        background: #E89B2B;
+        border: 2px solid #FFFFFF;
+    }
+    .ellipse4 {
+        box-sizing: border-box;
+        
+        width: 15px;
+        height: 15px;
+        bottom: 78px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+    .ellipse5 {
+        box-sizing: border-box;
+        
+        width: 15px;
+        height: 15px;
+        bottom: 104px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+    .ellipse6 {
+        box-sizing: border-box;
+       
+        width: 15px;
+        height: 15px;
+        bottom: 130px;
+        border-radius: 20px;
+        color: white;
+        border: 2px solid #FFFFFF;
+    }
+.restangle4-text1{
+    
+    width: 64.79px;
+    height: 22.96px;
+    left: 492.97px;
+    top: 388.04px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.restangle4-text2{
+    
+    width: 57.17px;
+    height: 22.96px;
+    left: 597.35px;
+    top: 388.04px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #E89B2B;
+}
+.restangle4-1{
+    box-sizing: border-box;
+    
+    width: 103.67px;
+    height: 31px;
+    left: 522px;
+    top: 379px;
+    border: 1px solid #BEBEC8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.restangle4-2{
+box-sizing: border-box;
+
+width: 99.09px;
+height: 31px;
+left: 624.91px;
+top: 379px;
+border: 1px solid #BEBEC8;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+}
+.married-title{
+
+width: 355px;
+height: 30px;
+left: 517px;
+top: 481px;
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+color: #FFFFFF;
+}
+.married-text1{
+    
+    width: 343px;
+    height: 39px;
+    left: 517px;
+    top: 550px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.married-text2{
+
+width: 49px;
+height: 13px;
+left: 736px;
+top: 577px;
+font-family: 'Yanone Kaffeesatz';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 12px;
+color: #E89B2B;
+}
+/**end танцующий мужик**/
