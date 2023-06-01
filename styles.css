@@ -131,40 +131,28 @@
     background-size: cover;
     position: inherit;
     width: 100%;
-    
-    left: 0px;
-    top: -31px;
 }
 
-    .restangle3{
-border-radius: 0px;
-
-width: 680px;
-height: 671px;
-left: 370px;
-top: 42px;
-background: linear-gradient(270deg, rgba(0, 0, 0, 0.81) 2%, rgba(0, 0, 0, 0.589424) 89.15%, rgba(0, 0, 0, 0) 114.5%);
-    }
+.restangle3 {
+    border-radius: 0px;
+    width: 100%;
+    height: 671px;
+    background: linear-gradient(270deg, rgba(0, 0, 0, 0.81) 2%, rgba(0, 0, 0, 0.589424) 89.15%, rgba(0, 0, 0, 0) 114.5%);
+}
     
-    .restangle3-title{
-
-width: 382px;
-height: 189px;
-left: 156px;
-margin-top: 103px;
-font-family: 'Yanone Kaffeesatz';
-font-style: normal;
-font-weight: 400;
-font-size: 82px;
-line-height: 81px;
-color: #FFFFFF;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    .restangle3-title {
+        padding-top: 160px;
+        height: 189px;
+        font-family: 'Yanone Kaffeesatz';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 82px;
+        line-height: 81px;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
     }
     .restangle3-text {
-        
-        width: 380px;
         height: 58px;
-        left: 154px;
         margin-top: 278px;
         font-family: 'Yanone Kaffeesatz';
         font-style: normal;
