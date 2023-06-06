@@ -187,7 +187,7 @@
         border: 2px solid #FFFFFF;
         border-radius: 20px;
     }
-    .ellipse5 {
+    .ellipse3 {
         box-sizing: border-box;
         
         width: 15px;
@@ -196,33 +196,8 @@
         background: #E89B2B;
         border: 2px solid #FFFFFF;
     }
-    .ellipse4 {
-        box-sizing: border-box;
-        
-        width: 15px;
-        height: 15px;
-        border-radius: 20px;
-        color: white;
-        border: 2px solid #FFFFFF;
-    }
-    .ellipse3 {
-        box-sizing: border-box;
-        
-        width: 15px;
-        height: 15px;
-        border-radius: 20px;
-        color: white;
-        border: 2px solid #FFFFFF;
-    }
-    .ellipse6 {
-        box-sizing: border-box;
-       
-        width: 15px;
-        height: 15px;
-        border-radius: 20px;
-        color: white;
-        border: 2px solid #FFFFFF;
-    }
+    
+    
 .restangle4-text1{
     
     width: 64.79px;
