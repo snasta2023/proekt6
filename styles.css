@@ -167,15 +167,19 @@
     color: #FFFFFF;
 }
 .ellipsies {
-
+    
+    padding-left: 21px;
+    position: absolute;
+    top: 159px;
 }
 .ellipse {
     flex-direction: column;
-    display: flex;
-    width: 15px;
-    height: 15px;
+    /* display: flex; */
+    /* width: 15px; */
+    /* height: 15px; */
     /* margin-top: 291px; */
     /* margin-left: 20px; */
+    padding-bottom: 16px;
 }
     .ellipse2 {
         box-sizing: border-box;
