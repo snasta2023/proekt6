@@ -6,7 +6,7 @@
     padding-top: 1px;
     /* background: rgba(18, 17, 17, 0.82); */
     box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
-    background: linear-gradient(to left, #121111 2%, transparent 190%);
+    background: linear-gradient(to left, #121111 2%, transparent 110%);
 }
 .club1 {
     padding-top: 8px;
@@ -146,19 +146,20 @@
 .restangle3-title {
     padding-top: 102px;
     /* height: 189px; */
-    padding-left: 70px;
+    padding-left: 52px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 400;
     font-size: 72px;
-    line-height: 81px;
+    line-height: 61px;
     color: #FFFFFF;
     text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
 }
 .restangle3-text {
     /* height: 58px; */
-    padding-left: 70px;
+    padding-left: 52px;
     /* margin-top: 278px; */
+    padding-top: 11px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 300;
