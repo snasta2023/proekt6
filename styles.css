@@ -136,7 +136,7 @@
 
 .restangle3 {
     border-radius: 0px;
-    width: 504px;
+    width: 43%;
     /* padding-left: 33px; */
     /* height: 100%; */
     margin-left: 150px;
@@ -166,6 +166,9 @@
     line-height: 24px;
     color: #FFFFFF;
 }
+.ellipsies {
+
+}
 .ellipse {
     flex-direction: column;
     display: flex;
@@ -179,18 +182,16 @@
         
         width: 15px;
         height: 15px;
-        bottom: 26px;
         border-radius: 20px;
         color: white;
         border: 2px solid #FFFFFF;
         border-radius: 20px;
     }
-    .ellipse3 {
+    .ellipse5 {
         box-sizing: border-box;
         
         width: 15px;
         height: 15px;
-        bottom: 52px;
         border-radius: 20px;
         background: #E89B2B;
         border: 2px solid #FFFFFF;
@@ -200,17 +201,15 @@
         
         width: 15px;
         height: 15px;
-        bottom: 78px;
         border-radius: 20px;
         color: white;
         border: 2px solid #FFFFFF;
     }
-    .ellipse5 {
+    .ellipse3 {
         box-sizing: border-box;
         
         width: 15px;
         height: 15px;
-        bottom: 104px;
         border-radius: 20px;
         color: white;
         border: 2px solid #FFFFFF;
@@ -220,7 +219,6 @@
        
         width: 15px;
         height: 15px;
-        bottom: 130px;
         border-radius: 20px;
         color: white;
         border: 2px solid #FFFFFF;
@@ -229,8 +227,7 @@
     
     width: 64.79px;
     height: 22.96px;
-    left: 492.97px;
-    top: 388.04px;
+
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 300;
@@ -242,8 +239,7 @@
     
     width: 57.17px;
     height: 22.96px;
-    left: 597.35px;
-    top: 388.04px;
+    
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 400;
@@ -256,8 +252,7 @@
     
     width: 103.67px;
     height: 31px;
-    left: 522px;
-    top: 379px;
+    
     border: 1px solid #BEBEC8;
     display: flex;
     flex-direction: row;
@@ -269,8 +264,7 @@ box-sizing: border-box;
 
 width: 99.09px;
 height: 31px;
-left: 624.91px;
-top: 379px;
+
 border: 1px solid #BEBEC8;
 display: flex;
 flex-direction: row;
@@ -281,8 +275,7 @@ align-items: center;
 
 width: 355px;
 height: 30px;
-left: 517px;
-top: 481px;
+
 font-family: 'Yanone Kaffeesatz';
 font-style: normal;
 font-weight: 500;
@@ -295,8 +288,7 @@ color: #FFFFFF;
     
     width: 343px;
     height: 39px;
-    left: 517px;
-    top: 550px;
+    
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 300;
@@ -308,8 +300,7 @@ color: #FFFFFF;
 
 width: 49px;
 height: 13px;
-left: 736px;
-top: 577px;
+
 font-family: 'Yanone Kaffeesatz';
 font-style: normal;
 font-weight: 700;
