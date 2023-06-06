@@ -171,7 +171,7 @@
     
     padding-left: 21px;
     position: absolute;
-    top: 159px;
+    top: 151px;
 }
 .ellipse {
     flex-direction: column;
@@ -250,6 +250,13 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+}
+
+.box-restangle4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 52px;
+    
 }
 .married-title{
 
