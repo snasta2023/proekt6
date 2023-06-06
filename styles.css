@@ -260,8 +260,7 @@
     padding-bottom: 50px;
 }
 .married-title {
-    /* width: 355px; */
-    /* height: 30px; */
+   
     padding-left: 52px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
@@ -271,8 +270,7 @@
     color: #FFFFFF;
 }
 .married-text1 {
-    /* width: 343px; */
-    /* height: 39px; */
+    
     padding-left: 52px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
@@ -282,8 +280,7 @@
     color: #FFFFFF;
 }
 .married-text2 {
-    /* width: 49px; */
-    /* height: 13px; */
+    
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 700;
@@ -291,7 +288,7 @@
     line-height: 12px;
     color: #E89B2B;
     padding-left: 210px;
-    /* position: absolute; */
-    padding-bottom: 50px;
+    margin-top: -14px;
+    
 }
 /**end танцующий мужик**/
