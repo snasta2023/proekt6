@@ -141,6 +141,7 @@
     /* height: 100%; */
     margin-left: 150px;
     background: linear-gradient(270deg, rgba(0, 0, 0, 0.81) 2%, rgba(0, 0, 0, 0.589424) 89.15%, rgba(0, 0, 0, 0) 114.5%);
+    padding-bottom: 52px;
 }
     
 .restangle3-title {
@@ -256,26 +257,23 @@
     display: flex;
     flex-direction: row;
     margin-left: 52px;
-    
+    padding-bottom: 50px;
 }
-.married-title{
-
-width: 355px;
-height: 30px;
-
-font-family: 'Yanone Kaffeesatz';
-font-style: normal;
-font-weight: 500;
-font-size: 30px;
-line-height: 30px;
-/* identical to box height */
-color: #FFFFFF;
+.married-title {
+    /* width: 355px; */
+    /* height: 30px; */
+    padding-left: 52px;
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: #FFFFFF;
 }
-.married-text1{
-    
-    width: 343px;
-    height: 39px;
-    
+.married-text1 {
+    /* width: 343px; */
+    /* height: 39px; */
+    padding-left: 52px;
     font-family: 'Yanone Kaffeesatz';
     font-style: normal;
     font-weight: 300;
@@ -283,16 +281,17 @@ color: #FFFFFF;
     line-height: 20px;
     color: #FFFFFF;
 }
-.married-text2{
-
-width: 49px;
-height: 13px;
-
-font-family: 'Yanone Kaffeesatz';
-font-style: normal;
-font-weight: 700;
-font-size: 12px;
-line-height: 12px;
-color: #E89B2B;
+.married-text2 {
+    /* width: 49px; */
+    /* height: 13px; */
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 12px;
+    color: #E89B2B;
+    padding-left: 210px;
+    /* position: absolute; */
+    padding-bottom: 50px;
 }
 /**end танцующий мужик**/
