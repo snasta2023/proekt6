@@ -303,3 +303,15 @@
         font-size: calc(100% - 7%);
     }
 }
+
+@media (min-width: 421px) and (max-width: 940px)
+{
+    .restangle3-title{
+        font-size: calc(200% - 1%);
+        padding-top: 81px;
+        line-height: 41px;
+    }
+    .married-title {
+        font-size: calc(150% - 16%);
+    }
+}
